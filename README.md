@@ -2,6 +2,9 @@
 an activity
 
 Jerry's favourite animal
+
+Hobbies: Tennis
+
 ![alt text](image.png)
 
 Partner 1
